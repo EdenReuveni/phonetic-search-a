@@ -1,8 +1,4 @@
-/**
- * Demo program for Gimatriya calculation.
- * 
- * Date: 2020-02
- */
+
 
 #include "PhoneticFinder.hpp"
 
@@ -13,6 +9,8 @@
 
 #include <string>
 using namespace std;
+
+//Submitter: Eden Reuveni
 
 string phonetic::find(string text, string word){
 	
